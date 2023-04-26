@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  /* overflow: hidden; */
+  
+}
+body{
+  background-color: rgba(158, 149, 137, 0.37);
+}
+
+.cart{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  background-color: rgba(235, 232, 228, 0.114);
+
+  
+  
+}
